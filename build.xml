@@ -302,6 +302,7 @@
                 <file name="src/StartPage/Scene/StartPageScene.js"/>
                 <file name="src/StartPage/Layers/StartPageLayer.js"/>
                 <file name="src/StartPage/Layers/SPBackgroundLayer.js"/>
+                <file name="src/MainMenu/MainMenuSource.js"/>
                 <file name="src/MainMenu/Scene/MainMenuScene.js"/>
                 <file name="src/MainMenu/Layers/MainMenuLayer.js"/>
                 <file name="src/MainMenu/Layers/MMBackgroundLayer.js"/>
@@ -317,10 +318,12 @@
                 <file name="src/ChooseLevel/Layers/ChooseLevelLayer.js"/>
                 <file name="src/ChooseLevel/Layers/CLBackgroundLayer.js"/>
                 <file name="src/ChooseLevel/Layers/CLTouchLayer.js"/>
+                <file name="src/GamePlay/GamePlaySource.js"/>
                 <file name="src/GamePlay/Scene/GamePlayScene.js"/>
                 <file name="src/GamePlay/Layers/GamePlayLayer.js"/>
                 <file name="src/GamePlay/Layers/GPBackgroundLayer.js"/>
                 <file name="src/GamePlay/Layers/GPTouchLayer.js"/>
+                <file name="src/GameOver/GameOverSource.js"/>
                 <file name="src/GameOver/Scene/GameOverScene.js"/>
                 <file name="src/GameOver/Layers/GameOverLayer.js"/>
                 <file name="src/GameOver/Layers/GOBackgroundLayer.js"/>
